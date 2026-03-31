@@ -1,0 +1,11 @@
+[
+    {
+        "name": "vineet",
+        "age": 25,
+        "email": "vineetprakash03@gmail.com",
+        "pin": "80aa9e4f3014c3d96559c8e642157edbb2b684ea0144ed76cd20b3af75110877",
+        "account_no": "WEOMTSKG",
+        "balance": 0,
+        "transactions": []
+    }
+]
