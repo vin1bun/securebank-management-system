@@ -2,6 +2,7 @@
 
 A full-stack banking application built with Python that demonstrates secure data handling, OOP principles, and modern web interfaces using Streamlit.
 
+LIVE DEMO - https://securebank-management-system-sldc9rsmhu9jearzdzsgyk.streamlit.app/
 
 ## 📌 Overview
 
