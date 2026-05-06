@@ -144,3 +144,11 @@ elif menu == "Delete Account":
             st.success("Account deleted ❌")
         else:
             st.error("Invalid details")
+
+st.markdown("---")
+st.markdown(
+    "<div style='text-align: center; color: grey; font-size: 0.85rem;'>"
+    "Created by <strong>Vineet Prakash</strong> · Data Scientist"
+    "</div>",
+    unsafe_allow_html=True
+)
